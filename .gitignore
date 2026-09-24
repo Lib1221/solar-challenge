@@ -16,3 +16,33 @@ data/
 # System files
 # .DS_Store
 # Thumbs.db
+
+# Added: common build, cache, secret and editor files
+__pycache__/
+*.py[cod]
+*.egg-info/
+.eggs/
+dist/
+build/
+venv/
+env/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.log
+*.sqlite3
+db.sqlite3
+*.pt
+*.pth
+*.ckpt
+checkpoints/
+data/raw/
+data/processed/
+models/
+wandb/
+.env
+.env.*
+!.env.example
+.vscode/
+.idea/
+.DS_Store
