@@ -53,3 +53,11 @@ solar-challenge-week1/
 ## Contact
 
 For questions, open an issue or contact the repo maintainer.
+
+## Documentation
+
+Developer docs live in [`docs/`](docs/):
+
+- [Architecture](docs/ARCHITECTURE.md)
+- [Setup](docs/SETUP.md)
+- [Contributing](docs/CONTRIBUTING.md)
